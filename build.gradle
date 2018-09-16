@@ -1,0 +1,106 @@
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.4'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        google()
+    }
+}
+
+apply plugin: 'com.android.application'
+
+// Load keystore
+def keystorePropertiesFile = rootProject.file("../../../vendor/keys/keystore.properties")
+def keystoreProperties = new Properties()
+keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+
+// Define commonly used versions in a single place
+ext {
+    // Sdk and tools
+    compileSdkVersion = 28
+    buildToolsVersion = '28.0.2'
+
+    minSdkVersion = 23
+    targetSdkVersion = 28
+
+    // App dependencies
+    supportLibraryVersion = '26.1.0'
+    firebaseVersion = '16.0.3'
+    firebasePerfVersion = '16.1.0'
+    crashlyticsVersion = '2.9.5'
+}
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        applicationId "com.katsuna.gallery"
+        minSdkVersion rootProject.minSdkVersion
+        targetSdkVersion rootProject.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+
+        project.ext.set("archivesBaseName", "KatsunaGallery-" + defaultConfig.versionName)
+
+        ndk {
+            moduleName "libjni_eglfence"
+            moduleName "libjni_jpegstream"
+        }
+    }
+
+    signingConfigs {
+        katsunaConfig {
+            storeFile rootProject.file("../../../vendor/keys/katsuna.keystore")
+            storePassword keystoreProperties['storePassword']
+            keyAlias keystoreProperties['keyAlias']
+            keyPassword keystoreProperties['keyPassword']
+        }
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+        }
+
+        release {
+            signingConfig signingConfigs.katsunaConfig
+
+            lintOptions {
+                checkReleaseBuilds false
+            }
+        }
+    }
+    sourceSets {
+        main {
+            res.srcDirs = ['res']
+            java.srcDirs = ['src']
+            java.srcDirs = ['../src_pd']
+            jni.srcDirs = ['../jni']
+            jni.srcDirs = ['../jni_jpegstream']
+            manifest.srcFile 'AndroidManifest.xml'
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    jcenter()
+    google()
+}
+
+dependencies {
+    implementation "androidx.legacy:legacy-support-core-ui:1.0.0-rc02"
+    implementation "androidx.legacy:legacy-support-v13:1.0.0-rc02"
+    implementation "androidx.fragment:fragment:1.0.0-rc02"
+    implementation "androidx.core:core:1.0.0-rc02"
+    implementation project(':commons')
+}
