@@ -49,7 +49,7 @@ android {
         project.ext.set("archivesBaseName", "KatsunaGallery-" + defaultConfig.versionName)
 
         renderscriptTargetApi 18
-        renderscriptSupportModeEnabled true
+        renderscriptSupportModeEnabled false
 
         ndk {
             moduleName "libjni_eglfence"
@@ -84,6 +84,7 @@ android {
             res.srcDirs = ['res']
             java.srcDirs = ['src','src_pd','gallerycommon']
             jni.srcDirs = ['jni','jni_jpegstream']
+            renderscript.srcDirs = ['rs']
             manifest.srcFile 'AndroidManifest.xml'
         }
     }
