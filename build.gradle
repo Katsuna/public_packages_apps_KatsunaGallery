@@ -82,10 +82,8 @@ android {
     sourceSets {
         main {
             res.srcDirs = ['res']
-            java.srcDirs = ['src']
-            java.srcDirs = ['../src_pd']
-            jni.srcDirs = ['../jni']
-            jni.srcDirs = ['../jni_jpegstream']
+            java.srcDirs = ['src','../src_pd']
+            jni.srcDirs = ['../jni','../jni_jpegstream']
             manifest.srcFile 'AndroidManifest.xml'
         }
     }

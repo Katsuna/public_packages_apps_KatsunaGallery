@@ -10,9 +10,6 @@
             <option value="$PROJECT_DIR$/../../../frameworks/KatsunaCommon/commons" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/gallerycommon" />
-            <option value="$PROJECT_DIR$/jni" />
-            <option value="$PROJECT_DIR$/jni_jpegstream" />
-            <option value="$PROJECT_DIR$/src_pd" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

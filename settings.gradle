@@ -1,6 +1,3 @@
 include 'gallerycommon'
-include 'src_pd'
-include 'jni'
-include 'jni_jpegstream'
 include ':commons'
 project (":commons").projectDir = new File("../../../frameworks/KatsunaCommon/commons")
