@@ -40,7 +40,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        applicationId "com.katsuna.gallery"
+        //applicationId "com.katsuna.gallery"
         minSdkVersion rootProject.minSdkVersion
         targetSdkVersion rootProject.targetSdkVersion
         versionCode 1
@@ -79,8 +79,8 @@ android {
     sourceSets {
         main {
             res.srcDirs = ['res']
-            java.srcDirs = ['src','../src_pd']
-            jni.srcDirs = ['../jni','../jni_jpegstream']
+            java.srcDirs = ['src','src_pd']
+            jni.srcDirs = ['jni','jni_jpegstream']
             manifest.srcFile 'AndroidManifest.xml'
         }
     }
