@@ -48,6 +48,9 @@ android {
         useLibrary 'org.apache.http.legacy'
         project.ext.set("archivesBaseName", "KatsunaGallery-" + defaultConfig.versionName)
 
+        renderscriptTargetApi 18
+        renderscriptSupportModeEnabled true
+
         ndk {
             moduleName "libjni_eglfence"
             moduleName "libjni_jpegstream"
