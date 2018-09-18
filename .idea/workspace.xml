@@ -9,7 +9,10 @@
     <list default="true" id="a8c26b63-5f62-40fb-9eab-749403cd157a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
@@ -19,7 +22,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/KatsunaGallery.iml" afterPath="$PROJECT_DIR$/KatsunaGallery.iml" />
       <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/jni_jpegstream/Android.mk" afterPath="$PROJECT_DIR$/jni_jpegstream/Android.mk" />
+      <change beforePath="$PROJECT_DIR$/res/layout-land/filtershow_main_panel.xml" afterPath="$PROJECT_DIR$/res/layout-land/filtershow_main_panel.xml" />
+      <change beforePath="$PROJECT_DIR$/res/layout/filtershow_activity.xml" afterPath="$PROJECT_DIR$/res/layout/filtershow_activity.xml" />
+      <change beforePath="$PROJECT_DIR$/res/layout/filtershow_category_panel_new.xml" afterPath="$PROJECT_DIR$/res/layout/filtershow_category_panel_new.xml" />
+      <change beforePath="$PROJECT_DIR$/res/layout/filtershow_main_panel.xml" afterPath="$PROJECT_DIR$/res/layout/filtershow_main_panel.xml" />
+      <change beforePath="$PROJECT_DIR$/res/layout/filtershow_state_panel_new.xml" afterPath="$PROJECT_DIR$/res/layout/filtershow_state_panel_new.xml" />
+      <change beforePath="$PROJECT_DIR$/res/xml/camera_preferences.xml" afterPath="$PROJECT_DIR$/res/xml/camera_preferences.xml" />
+      <change beforePath="$PROJECT_DIR$/res/xml/video_preferences.xml" afterPath="$PROJECT_DIR$/res/xml/video_preferences.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,20 +54,23 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-538">
-              <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="25" />
+            <state relative-caret-position="204">
+              <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            <state relative-caret-position="161">
+              <caret line="287" column="58" lean-forward="false" selection-start-line="287" selection-start-column="37" selection-end-line="287" selection-end-column="58" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
           </provider>
         </entry>
       </file>
@@ -67,6 +79,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filtershow_activity.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/filtershow_activity.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="camera_preferences.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/xml/camera_preferences.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="21" column="71" lean-forward="false" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -95,14 +130,14 @@
       <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="87" lean-forward="false" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../frameworks/KatsunaCommon/commons/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="629">
@@ -144,6 +179,9 @@
       <find>settings</find>
       <find>max_width</find>
       <find>IntentHelper</find>
+      <find>xmlns:custom=&quot;http://schemas.android.com/apk/res/com.android.gallery3d&quot;</find>
+      <find>xmlns:camera=&quot;http://schemas.android.com/apk/res/com.android.gallery3d&quot;</find>
+      <find>com.android.gallery3d</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;string name=&quot;no_storage&quot; product=&quot;default&quot;</replace>
@@ -152,6 +190,8 @@
       <replace>&lt;string name=&quot;access_sd_fail&quot; product=&quot;default&quot;</replace>
       <replace>&lt;string name=&quot;spaceIsLow_content&quot; product=&quot;default&quot;</replace>
       <replace />
+      <replace>xmlns:custom=&quot;http://schemas.android.com/apk/res-auto&quot;</replace>
+      <replace>xmlns:camera=&quot;http://schemas.android.com/apk/res-auto&quot;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\KreAc\Dev\Katsuna\packages\apps\KatsunaGallery</dir>
@@ -3275,8 +3315,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/res/values-et/strings.xml" />
-        <option value="$PROJECT_DIR$/res/values-fa/strings.xml" />
         <option value="$PROJECT_DIR$/res/values-fi/strings.xml" />
         <option value="$PROJECT_DIR$/res/values-fr/strings.xml" />
         <option value="$PROJECT_DIR$/res/values-fr-rCA/strings.xml" />
@@ -3326,6 +3364,8 @@
         <option value="$PROJECT_DIR$/gallerycommon/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/res/layout/filtershow_activity.xml" />
+        <option value="$PROJECT_DIR$/res/xml/camera_preferences.xml" />
       </list>
     </option>
   </component>
@@ -3354,6 +3394,20 @@
       <pane id="AndroidView">
         <subPane>
           <expand>
+            <path>
+              <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
+              <item name="KatsunaGallery" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
+              <item name="KatsunaGallery" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
+              <item name="KatsunaGallery" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
             <path>
               <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -3396,7 +3450,7 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jni_jpegstream" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../frameworks/KatsunaCommon" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -3690,6 +3744,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3698,7 +3753,8 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4914712" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.4914712" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3711,8 +3767,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -3727,6 +3781,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="222" lean-forward="false" selection-start-line="319" selection-start-column="222" selection-end-line="319" selection-end-column="222" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3734,6 +3789,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="212" lean-forward="false" selection-start-line="319" selection-start-column="212" selection-end-line="319" selection-end-column="212" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3741,6 +3797,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="210" lean-forward="false" selection-start-line="319" selection-start-column="210" selection-end-line="319" selection-end-column="210" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3748,6 +3805,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="199" lean-forward="false" selection-start-line="319" selection-start-column="199" selection-end-line="319" selection-end-column="199" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3755,6 +3813,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="210" lean-forward="false" selection-start-line="319" selection-start-column="210" selection-end-line="319" selection-end-column="210" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3762,6 +3821,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3769,6 +3829,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3776,6 +3837,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="208" lean-forward="false" selection-start-line="319" selection-start-column="208" selection-end-line="319" selection-end-column="208" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3783,6 +3845,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="322" column="199" lean-forward="false" selection-start-line="322" selection-start-column="199" selection-end-line="322" selection-end-column="199" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3790,6 +3853,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="188" lean-forward="false" selection-start-line="319" selection-start-column="188" selection-end-line="319" selection-end-column="188" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3797,6 +3861,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="228" lean-forward="false" selection-start-line="319" selection-start-column="228" selection-end-line="319" selection-end-column="228" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3804,6 +3869,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="203" lean-forward="false" selection-start-line="319" selection-start-column="203" selection-end-line="319" selection-end-column="203" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3811,6 +3877,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="193" lean-forward="false" selection-start-line="319" selection-start-column="193" selection-end-line="319" selection-end-column="193" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3818,6 +3885,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="196" lean-forward="false" selection-start-line="319" selection-start-column="196" selection-end-line="319" selection-end-column="196" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3825,6 +3893,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="132" lean-forward="false" selection-start-line="319" selection-start-column="132" selection-end-line="319" selection-end-column="132" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3832,6 +3901,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="139" lean-forward="false" selection-start-line="319" selection-start-column="139" selection-end-line="319" selection-end-column="139" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3839,6 +3909,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="319" column="139" lean-forward="false" selection-start-line="319" selection-start-column="139" selection-end-line="319" selection-end-column="139" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3846,6 +3917,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="321" column="223" lean-forward="false" selection-start-line="321" selection-start-column="223" selection-end-line="321" selection-end-column="223" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3864,40 +3936,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gallerycommon/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/res/xml/camera_preferences.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-978">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/filtershow_activity.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/values/filtershow_values_attrs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="283" column="40" lean-forward="false" selection-start-line="283" selection-start-column="40" selection-end-line="283" selection-end-column="40" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/android/camera/CameraActivity.java">
@@ -4051,22 +4095,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -4091,10 +4119,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-538">
-          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="25" />
+        <state relative-caret-position="17">
+          <caret line="1" column="87" lean-forward="false" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -4105,6 +4141,44 @@
           <caret line="37" column="49" lean-forward="false" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/filtershow_activity.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/xml/camera_preferences.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="21" column="71" lean-forward="false" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="287" column="58" lean-forward="false" selection-start-line="287" selection-start-column="37" selection-end-line="287" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
   </component>
