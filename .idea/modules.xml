@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KatsunaGallery.iml" filepath="$PROJECT_DIR$/KatsunaGallery.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../frameworks/KatsunaCommon/commons/commons.iml" filepath="$PROJECT_DIR$/../../../frameworks/KatsunaCommon/commons/commons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gallerycommon/gallerycommon.iml" filepath="$PROJECT_DIR$/gallerycommon/gallerycommon.iml" />
     </modules>
   </component>
 </project>
