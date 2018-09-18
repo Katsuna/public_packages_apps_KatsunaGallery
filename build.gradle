@@ -88,6 +88,12 @@ android {
             manifest.srcFile 'AndroidManifest.xml'
         }
     }
+    externalNativeBuild {
+        ndkBuild {
+            path 'jni/Android.mk'
+            //path 'jni_jpegstream/Android.mk'
+        }
+    }
 }
 
 repositories {

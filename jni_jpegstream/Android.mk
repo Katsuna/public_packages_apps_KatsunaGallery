@@ -1,3 +1,10 @@
+LOCAL_PATH := $(call my-dir)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := libjpeg_static_ndk
+LOCAL_SRC_FILES := libjpeg_static_ndk.so
+include $(PREBUILT_SHARED_LIBRARY)
+
 LOCAL_PATH:= $(call my-dir)
 
 # Jpeg Streaming native
