@@ -6,7 +6,75 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c26b63-5f62-40fb-9eab-749403cd157a" name="Default" comment="" />
+    <list default="true" id="a8c26b63-5f62-40fb-9eab-749403cd157a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-af/strings.xml" afterPath="$PROJECT_DIR$/res/values-af/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-am/strings.xml" afterPath="$PROJECT_DIR$/res/values-am/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ar/strings.xml" afterPath="$PROJECT_DIR$/res/values-ar/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-az/strings.xml" afterPath="$PROJECT_DIR$/res/values-az/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-bg/strings.xml" afterPath="$PROJECT_DIR$/res/values-bg/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ca/strings.xml" afterPath="$PROJECT_DIR$/res/values-ca/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-cs/strings.xml" afterPath="$PROJECT_DIR$/res/values-cs/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-da/strings.xml" afterPath="$PROJECT_DIR$/res/values-da/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-de/strings.xml" afterPath="$PROJECT_DIR$/res/values-de/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-el/strings.xml" afterPath="$PROJECT_DIR$/res/values-el/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-en-rGB/strings.xml" afterPath="$PROJECT_DIR$/res/values-en-rGB/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-en-rIN/strings.xml" afterPath="$PROJECT_DIR$/res/values-en-rIN/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-es-rUS/strings.xml" afterPath="$PROJECT_DIR$/res/values-es-rUS/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-es/strings.xml" afterPath="$PROJECT_DIR$/res/values-es/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-et/strings.xml" afterPath="$PROJECT_DIR$/res/values-et/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-fa/strings.xml" afterPath="$PROJECT_DIR$/res/values-fa/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-fi/strings.xml" afterPath="$PROJECT_DIR$/res/values-fi/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-fr-rCA/strings.xml" afterPath="$PROJECT_DIR$/res/values-fr-rCA/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-fr/strings.xml" afterPath="$PROJECT_DIR$/res/values-fr/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-hi/strings.xml" afterPath="$PROJECT_DIR$/res/values-hi/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-hr/strings.xml" afterPath="$PROJECT_DIR$/res/values-hr/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-hu/strings.xml" afterPath="$PROJECT_DIR$/res/values-hu/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-hy/strings.xml" afterPath="$PROJECT_DIR$/res/values-hy/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-in/strings.xml" afterPath="$PROJECT_DIR$/res/values-in/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-it/strings.xml" afterPath="$PROJECT_DIR$/res/values-it/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-iw/strings.xml" afterPath="$PROJECT_DIR$/res/values-iw/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ja/strings.xml" afterPath="$PROJECT_DIR$/res/values-ja/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ka/strings.xml" afterPath="$PROJECT_DIR$/res/values-ka/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-km/strings.xml" afterPath="$PROJECT_DIR$/res/values-km/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ko/strings.xml" afterPath="$PROJECT_DIR$/res/values-ko/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-lo/strings.xml" afterPath="$PROJECT_DIR$/res/values-lo/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-lt/strings.xml" afterPath="$PROJECT_DIR$/res/values-lt/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-lv/strings.xml" afterPath="$PROJECT_DIR$/res/values-lv/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-mn/strings.xml" afterPath="$PROJECT_DIR$/res/values-mn/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ms/strings.xml" afterPath="$PROJECT_DIR$/res/values-ms/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-nb/strings.xml" afterPath="$PROJECT_DIR$/res/values-nb/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ne/strings.xml" afterPath="$PROJECT_DIR$/res/values-ne/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-nl/strings.xml" afterPath="$PROJECT_DIR$/res/values-nl/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-pl/strings.xml" afterPath="$PROJECT_DIR$/res/values-pl/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-pt-rPT/strings.xml" afterPath="$PROJECT_DIR$/res/values-pt-rPT/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-pt/strings.xml" afterPath="$PROJECT_DIR$/res/values-pt/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ro/strings.xml" afterPath="$PROJECT_DIR$/res/values-ro/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-ru/strings.xml" afterPath="$PROJECT_DIR$/res/values-ru/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-si/strings.xml" afterPath="$PROJECT_DIR$/res/values-si/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-sk/strings.xml" afterPath="$PROJECT_DIR$/res/values-sk/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-sl/strings.xml" afterPath="$PROJECT_DIR$/res/values-sl/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-sr/strings.xml" afterPath="$PROJECT_DIR$/res/values-sr/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-sv/strings.xml" afterPath="$PROJECT_DIR$/res/values-sv/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-sw/strings.xml" afterPath="$PROJECT_DIR$/res/values-sw/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-th/strings.xml" afterPath="$PROJECT_DIR$/res/values-th/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-tl/strings.xml" afterPath="$PROJECT_DIR$/res/values-tl/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-tr/strings.xml" afterPath="$PROJECT_DIR$/res/values-tr/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-uk/strings.xml" afterPath="$PROJECT_DIR$/res/values-uk/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-vi/strings.xml" afterPath="$PROJECT_DIR$/res/values-vi/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-zh-rCN/strings.xml" afterPath="$PROJECT_DIR$/res/values-zh-rCN/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-zh-rHK/strings.xml" afterPath="$PROJECT_DIR$/res/values-zh-rHK/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-zh-rTW/strings.xml" afterPath="$PROJECT_DIR$/res/values-zh-rTW/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values-zu/strings.xml" afterPath="$PROJECT_DIR$/res/values-zu/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,37 +96,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="values.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="85" column="56" lean-forward="false" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../frameworks/KatsunaCommon/commons/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="442">
+              <caret line="4324" column="0" lean-forward="false" selection-start-line="4324" selection-start-column="0" selection-end-line="4324" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WRITE_SETTINGS</find>
+      <find>&lt;string name=&quot;no_storage&quot; product=&quot;default&quot;&gt;.*</find>
+      <find>&lt;string name=&quot;no_storage&quot; product=&quot;default&quot;.*</find>
+      <find>&lt;string name=&quot;no_storage&quot; product=&quot;nosdcard&quot;</find>
+      <find>&lt;string name=&quot;preparing_sd&quot; product=&quot;default&quot;.*</find>
+      <find>&lt;string name=&quot;preparing_sd&quot; product=&quot;nosdcard&quot;</find>
+      <find>&lt;string name=&quot;access_fail&quot; product=&quot;default&quot;.*</find>
+      <find>&lt;string name=&quot;access_sd_fail&quot; product=&quot;default&quot;.*</find>
+      <find>&lt;string name=&quot;access_sd_fail&quot; product=&quot;nosdcard&quot;</find>
+      <find>&lt;string name=&quot;access_sd_fail&quot; product=&quot;default&quot;.\*</find>
+      <find>&lt;string name=&quot;spaceIsLow_content&quot; product=&quot;default&quot;</find>
+      <find>&lt;string name=&quot;spaceIsLow_content&quot; product=&quot;nosdcard&quot;</find>
+      <find>&gt;r delete some images or other files.&lt;/string&gt;</find>
+      <find>Low-memory dialog message [CHAR LIMIT=NONE]</find>
+      <find>msgid=&quot;.*&quot;&lt;/string&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;string name=&quot;no_storage&quot; product=&quot;default&quot;</replace>
+      <replace>&lt;string name=&quot;preparing_sd&quot; product=&quot;default&quot;</replace>
+      <replace>&lt;string name=&quot;access_sd_fail&quot; product=&quot;default&quot;.*</replace>
+      <replace>&lt;string name=&quot;access_sd_fail&quot; product=&quot;default&quot;</replace>
+      <replace>&lt;string name=&quot;spaceIsLow_content&quot; product=&quot;default&quot;</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\KreAc\Dev\Katsuna\packages\apps\KatsunaGallery</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -3382,10 +3460,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
-        <option value="$PROJECT_DIR$/gallerycommon/build.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/res/values-da/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-de/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-el/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-en-rGB/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-en-rIN/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-es/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-es-rUS/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-et/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-fa/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-fi/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-fr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-fr-rCA/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-hi/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-hr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-hu/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-hy/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-in/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-it/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-iw/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ja/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ka/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-km/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ko/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-lo/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-lt/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-lv/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-mn/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ms/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-nb/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ne/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-nl/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-pl/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-pt/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-pt-rPT/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ro/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ru/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-si/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-sk/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-sl/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-sr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-sv/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-sw/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-th/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-tl/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-tr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-uk/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-vi/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-zh-rCN/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-zh-rHK/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-zh-rTW/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-zu/strings.xml" />
       </list>
     </option>
   </component>
@@ -3433,27 +3558,18 @@
             <path>
               <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
               <item name="KatsunaGallery" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
+              <item name="KatsunaGallery" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
               <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
               <item name="KatsunaGallery" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KatsunaGallery" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KatsunaGallery" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="katsuna" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
             <path>
               <item name="KatsunaGallery" type="1abcf292:AndroidViewProjectNode" />
@@ -3723,6 +3839,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3738,8 +3855,9 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.4936034" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3752,7 +3870,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -3763,81 +3880,410 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/res/values-de/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="319" column="231" lean-forward="false" selection-start-line="319" selection-start-column="231" selection-end-line="319" selection-end-column="231" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/res/values-el/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="319" column="210" lean-forward="false" selection-start-line="319" selection-start-column="210" selection-end-line="319" selection-end-column="210" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/res/values-en-rGB/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="319" column="201" lean-forward="false" selection-start-line="319" selection-start-column="201" selection-end-line="319" selection-end-column="201" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/res/values-en-rIN/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="319" column="201" lean-forward="false" selection-start-line="319" selection-start-column="201" selection-end-line="319" selection-end-column="201" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+    <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1037">
-          <caret line="143" column="39" lean-forward="false" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+        <state relative-caret-position="180">
+          <caret line="319" column="217" lean-forward="false" selection-start-line="319" selection-start-column="217" selection-end-line="319" selection-end-column="217" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallerycommon/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/../../../frameworks/KatsunaCommon/commons/build.gradle">
+    <entry file="file://$PROJECT_DIR$/res/values-es-rUS/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="319" column="226" lean-forward="false" selection-start-line="319" selection-start-column="226" selection-end-line="319" selection-end-column="226" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/res/values-et/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="85" column="56" lean-forward="false" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
+        <state relative-caret-position="384">
+          <caret line="332" column="45" lean-forward="false" selection-start-line="332" selection-start-column="45" selection-end-line="332" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/res/values-fa/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        <state relative-caret-position="180">
+          <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-fi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="186" lean-forward="false" selection-start-line="319" selection-start-column="186" selection-end-line="319" selection-end-column="186" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-fr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="237" lean-forward="false" selection-start-line="319" selection-start-column="237" selection-end-line="319" selection-end-column="237" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-fr-rCA/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="237" lean-forward="false" selection-start-line="319" selection-start-column="237" selection-end-line="319" selection-end-column="237" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-hi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="186" lean-forward="false" selection-start-line="319" selection-start-column="186" selection-end-line="319" selection-end-column="186" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-hr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="212" lean-forward="false" selection-start-line="319" selection-start-column="212" selection-end-line="319" selection-end-column="212" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-hu/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="210" lean-forward="false" selection-start-line="319" selection-start-column="210" selection-end-line="319" selection-end-column="210" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-hy/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="197" lean-forward="false" selection-start-line="319" selection-start-column="197" selection-end-line="319" selection-end-column="197" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-in/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="204" lean-forward="false" selection-start-line="319" selection-start-column="204" selection-end-line="319" selection-end-column="204" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-it/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="215" lean-forward="false" selection-start-line="319" selection-start-column="215" selection-end-line="319" selection-end-column="215" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-iw/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="184" lean-forward="false" selection-start-line="319" selection-start-column="184" selection-end-line="319" selection-end-column="184" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ja/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="151" lean-forward="false" selection-start-line="319" selection-start-column="151" selection-end-line="319" selection-end-column="151" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ka/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="217" lean-forward="false" selection-start-line="319" selection-start-column="217" selection-end-line="319" selection-end-column="217" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-km/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="195" lean-forward="false" selection-start-line="319" selection-start-column="195" selection-end-line="319" selection-end-column="195" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ko/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="152" lean-forward="false" selection-start-line="319" selection-start-column="152" selection-end-line="319" selection-end-column="152" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-lo/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="199" lean-forward="false" selection-start-line="319" selection-start-column="199" selection-end-line="319" selection-end-column="199" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-lt/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="202" lean-forward="false" selection-start-line="319" selection-start-column="202" selection-end-line="319" selection-end-column="202" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-lv/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="196" lean-forward="false" selection-start-line="319" selection-start-column="196" selection-end-line="319" selection-end-column="196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-mn/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="196" lean-forward="false" selection-start-line="319" selection-start-column="196" selection-end-line="319" selection-end-column="196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ms/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="190" lean-forward="false" selection-start-line="319" selection-start-column="190" selection-end-line="319" selection-end-column="190" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-nb/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="317" column="200" lean-forward="false" selection-start-line="317" selection-start-column="200" selection-end-line="317" selection-end-column="200" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ne/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="314" column="217" lean-forward="false" selection-start-line="314" selection-start-column="217" selection-end-line="314" selection-end-column="217" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-nl/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="207" lean-forward="false" selection-start-line="319" selection-start-column="207" selection-end-line="319" selection-end-column="207" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-pl/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="197" lean-forward="false" selection-start-line="319" selection-start-column="197" selection-end-line="319" selection-end-column="197" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-pt/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="214" lean-forward="false" selection-start-line="319" selection-start-column="214" selection-end-line="319" selection-end-column="214" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-pt-rPT/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="222" lean-forward="false" selection-start-line="319" selection-start-column="222" selection-end-line="319" selection-end-column="222" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ro/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="212" lean-forward="false" selection-start-line="319" selection-start-column="212" selection-end-line="319" selection-end-column="212" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ru/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="210" lean-forward="false" selection-start-line="319" selection-start-column="210" selection-end-line="319" selection-end-column="210" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-si/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="199" lean-forward="false" selection-start-line="319" selection-start-column="199" selection-end-line="319" selection-end-column="199" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-sk/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="210" lean-forward="false" selection-start-line="319" selection-start-column="210" selection-end-line="319" selection-end-column="210" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-sl/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-sr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-sv/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="208" lean-forward="false" selection-start-line="319" selection-start-column="208" selection-end-line="319" selection-end-column="208" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-sw/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="322" column="199" lean-forward="false" selection-start-line="322" selection-start-column="199" selection-end-line="322" selection-end-column="199" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-th/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="188" lean-forward="false" selection-start-line="319" selection-start-column="188" selection-end-line="319" selection-end-column="188" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-tl/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="228" lean-forward="false" selection-start-line="319" selection-start-column="228" selection-end-line="319" selection-end-column="228" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-tr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="203" lean-forward="false" selection-start-line="319" selection-start-column="203" selection-end-line="319" selection-end-column="203" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-uk/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="193" lean-forward="false" selection-start-line="319" selection-start-column="193" selection-end-line="319" selection-end-column="193" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-vi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="196" lean-forward="false" selection-start-line="319" selection-start-column="196" selection-end-line="319" selection-end-column="196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-zh-rCN/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="132" lean-forward="false" selection-start-line="319" selection-start-column="132" selection-end-line="319" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-zh-rHK/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="139" lean-forward="false" selection-start-line="319" selection-start-column="139" selection-end-line="319" selection-end-column="139" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-zh-rTW/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="319" column="139" lean-forward="false" selection-start-line="319" selection-start-column="139" selection-end-line="319" selection-end-column="139" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-zu/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="321" column="223" lean-forward="false" selection-start-line="321" selection-start-column="223" selection-end-line="321" selection-end-column="223" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="4324" column="0" lean-forward="false" selection-start-line="4324" selection-start-column="0" selection-end-line="4324" selection-end-column="0" />
           <folding />
         </state>
       </provider>
