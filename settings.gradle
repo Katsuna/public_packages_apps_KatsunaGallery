@@ -1,4 +1,2 @@
-include 'gallerycommon'
-project (":gallerycommon").projectDir = new File("gallerycommon")
 include ':commons'
 project (":commons").projectDir = new File("../../../frameworks/KatsunaCommon/commons")
