@@ -68,7 +68,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src_pd" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gallerycommon" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/shaders" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
@@ -90,6 +90,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javaPrecompile" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/ndk" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/prebuild" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
@@ -102,7 +103,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator-1.0.0-rc02" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime-2.0.0-rc01" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\KreAc\AppData\Local\Android\sdk\build-tools\28.0.2\renderscript\lib\renderscript-v8.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.fragment:fragment-1.0.0-rc02" level="project" />
     <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils-1.0.0-rc02" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-2.0.0-rc01" level="project" />
