@@ -108,5 +108,5 @@ dependencies {
     implementation "androidx.legacy:legacy-support-v13:1.0.0-rc02"
     implementation "androidx.fragment:fragment:1.0.0-rc02"
     implementation "androidx.core:core:1.0.0-rc02"
-    implementation project(':commons')
+    //implementation project(':commons')
 }
