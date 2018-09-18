@@ -40,7 +40,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        //applicationId "com.katsuna.gallery"
+        applicationId "com.katsuna.gallery"
         minSdkVersion rootProject.minSdkVersion
         targetSdkVersion rootProject.targetSdkVersion
         versionCode 1
