@@ -45,7 +45,6 @@ android {
         targetSdkVersion rootProject.targetSdkVersion
         versionCode 1
         versionName "1.0"
-        useLibrary 'org.apache.http.legacy'
         project.ext.set("archivesBaseName", "KatsunaGallery-" + defaultConfig.versionName)
 
         renderscriptTargetApi 18
@@ -82,7 +81,7 @@ android {
     sourceSets {
         main {
             res.srcDirs = ['res']
-            java.srcDirs = ['src','src_pd','gallerycommon']
+            java.srcDirs = ['src','src_pd']
             jni.srcDirs = ['jni','jni_jpegstream']
             renderscript.srcDirs = ['rs']
             manifest.srcFile 'AndroidManifest.xml'
@@ -108,5 +107,6 @@ dependencies {
     implementation "androidx.legacy:legacy-support-v13:1.0.0-rc02"
     implementation "androidx.fragment:fragment:1.0.0-rc02"
     implementation "androidx.core:core:1.0.0-rc02"
+    implementation project(':gallerycommon')
     //implementation project(':commons')
 }
