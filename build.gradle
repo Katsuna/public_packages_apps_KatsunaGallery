@@ -51,8 +51,8 @@ android {
         renderscriptSupportModeEnabled false
 
         ndk {
-            moduleName "libjni_eglfence"
-            moduleName "libjni_jpegstream"
+            abiFilters "armeabi-v7a"
+            //abiFilters ABI_FILTERS
         }
     }
 
@@ -90,7 +90,7 @@ android {
     externalNativeBuild {
         ndkBuild {
             path 'jni/Android.mk'
-            //path 'jni_jpegstream/Android.mk'
+            path 'jni_jpegstream/Android.mk'
         }
     }
 }

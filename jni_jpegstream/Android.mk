@@ -2,10 +2,9 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libjpeg_static_ndk
-LOCAL_SRC_FILES := libjpeg_static_ndk.so
-include $(PREBUILT_SHARED_LIBRARY)
+LOCAL_SRC_FILES:= $(LOCAL_PATH)/libjpeg_static_ndk.a
 
-LOCAL_PATH:= $(call my-dir)
+include $(PREBUILT_STATIC_LIBRARY)
 
 # Jpeg Streaming native
 
@@ -16,7 +15,8 @@ LOCAL_MODULE        := libjni_jpegstream
 LOCAL_NDK_STL_VARIANT := c++_static
 
 LOCAL_C_INCLUDES := $(LOCAL_PATH) \
-                    $(LOCAL_PATH)/src
+                    $(LOCAL_PATH)/src \
+					$(LOCAL_PATH)/../../../../external/libjpeg-turbo
 
 LOCAL_STATIC_LIBRARIES := libjpeg_static_ndk
 
