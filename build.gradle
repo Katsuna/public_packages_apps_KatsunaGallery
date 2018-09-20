@@ -103,10 +103,10 @@ repositories {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation "androidx.legacy:legacy-support-core-ui:1.0.0-rc02"
-    implementation "androidx.legacy:legacy-support-v13:1.0.0-rc02"
-    implementation "androidx.fragment:fragment:1.0.0-rc02"
-    implementation "androidx.core:core:1.0.0-rc02"
+    implementation "com.android.support:support-fragment:$supportLibraryVersion"
+    implementation "com.android.support:support-compat:$supportLibraryVersion"
+    implementation "com.android.support:support-core-ui:$supportLibraryVersion"
+    implementation "com.android.support:support-v13:$supportLibraryVersion"
     implementation project(':gallerycommon')
-    //implementation project(':commons')
+    implementation project(':commons')
 }
