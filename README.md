@@ -27,7 +27,7 @@ X:/Development/
     |       | -- libjpeg-turbo   
     | -- packages
     |       | -- apps
-    |       |     | -- KatsunaCamera  
+    |       |     | -- KatsunaGallery
 ```
 
 `libjpeg-turbo` is an AOSP repository. If you want to build the app outside of the Katsuna ROM source directory, you can download the repo using:
