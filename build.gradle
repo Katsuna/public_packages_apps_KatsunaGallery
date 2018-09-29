@@ -51,7 +51,7 @@ android {
         renderscriptSupportModeEnabled false
 
         ndk {
-            abiFilters "armeabi-v7a"
+            abiFilters "armeabi-v7a", "x86"
             //abiFilters ABI_FILTERS
         }
     }

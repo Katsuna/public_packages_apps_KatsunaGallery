@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libjpeg_static_ndk
-LOCAL_SRC_FILES:= $(LOCAL_PATH)/libjpeg_static_ndk.a
+LOCAL_SRC_FILES:= $(LOCAL_PATH)/$(TARGET_ARCH)/libjpeg_static_ndk.a
 
 include $(PREBUILT_STATIC_LIBRARY)
 
