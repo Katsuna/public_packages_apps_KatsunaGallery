@@ -4,7 +4,10 @@ include $(CLEAR_VARS)
 LOCAL_MODULE := libjpeg_static_ndk
 LOCAL_SRC_FILES:= $(LOCAL_PATH)/$(TARGET_ARCH)/libjpeg_static_ndk.a
 
-include $(PREBUILT_STATIC_LIBRARY)
+# https://stackoverflow.com/a/20624954/4008886
+ifneq ($(MAKECMDGOALS),clean)
+    include $(PREBUILT_STATIC_LIBRARY)
+endif
 
 # Jpeg Streaming native
 
@@ -38,5 +41,7 @@ LOCAL_SRC_FILES     := \
     src/outputstream_wrapper.cpp \
     src/stream_wrapper.cpp
 
-
-include $(BUILD_SHARED_LIBRARY)
+# https://stackoverflow.com/a/20624954/4008886
+ifneq ($(MAKECMDGOALS),clean)
+    include $(BUILD_SHARED_LIBRARY)
+endif
