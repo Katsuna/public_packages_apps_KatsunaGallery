@@ -37,7 +37,12 @@ public class PackagesMonitor extends BroadcastReceiver {
     @Override
     public void onReceive(final Context context, final Intent intent) {
         intent.setClass(context, AsyncService.class);
-        context.startService(intent);
+        // Android Oreo background restrictions, see Issue #2
+        try {
+            context.startService(intent);
+        } catch (IllegalStateException e) {
+            e.printStackTrace();
+        }
     }
 
     public static class AsyncService extends IntentService {
